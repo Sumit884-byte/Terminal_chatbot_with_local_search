@@ -15,12 +15,6 @@ Designed to be **as responsive and smooth as ChatGPT**, but runs directly in you
 
 ---
 
-## 📦 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/terminal-chatbot.git
-   cd terminal-chatbot
-Adjust model parameters (temperature, max tokens, etc.)
 
 🤝 Contributing
 
