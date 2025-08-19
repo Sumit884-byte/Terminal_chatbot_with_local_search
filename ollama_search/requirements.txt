@@ -1,0 +1,4 @@
+ollama==0.3.3
+trafilatura==1.12.2
+beautifulsoup4==4.12.3
+colorama==0.4.6
