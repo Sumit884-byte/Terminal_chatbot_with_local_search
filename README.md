@@ -20,4 +20,4 @@ Designed to be **as responsive and smooth as ChatGPT**, but runs directly in you
 
 Pull requests and suggestions are welcome!
 Open an issue if you encounter bugs or have feature requests.
-GitHub: your-username
+
