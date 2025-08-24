@@ -25,7 +25,6 @@ New features, improvements, and bug fixes will be tracked here.
 - Added **online + offline mode switching**  
 - Queue system introduced for **no waiting responses**  
 
-(✅ Update this section every month with changes.)  
 
 ---
 
