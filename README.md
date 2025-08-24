@@ -1,4 +1,4 @@
-# 🖥️ Terminal Chatbot (Online + Offline)
+# 🖥️ Terminal Chatbot (Online + Offline) fully free
 
 A **fast, reliable terminal-based chatbot** that works both **online and offline**.  
 It uses a **local LLM (Large Language Model)** for offline mode and supports **online integration** when connected.  
