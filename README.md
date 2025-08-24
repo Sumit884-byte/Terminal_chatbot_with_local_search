@@ -9,7 +9,7 @@ Designed to be **as responsive and smooth as ChatGPT**, but runs directly in you
 ## 🚀 Features
 - ⚡ **Fast responses** (optimized for low latency)
 - 💻 **Terminal-based interface** (lightweight, no GUI overhead)
-- 🔗 **Online + Offline modes** (switch seamlessly)
+- 🔗 **Online + Offline modes** (switch seamlessly based on predefined condition)
 - 🧠 **Local LLM support** (privacy-friendly offline chat)
 - 🔒 **No data tracking** (all local unless online mode is used)
 - ⏱️ **No Waiting** (run it in queue)
